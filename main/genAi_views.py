@@ -5,12 +5,14 @@ import asyncio
 import traceback
 from pathlib import Path
 
-from config import EMAIL_CONFIG
-from helper import template, format_structured_data, should_categorize, categorize_concerns
-from advanced_graph import create_advanced_graph
-from parser import extract_text_from_pdf, generate_pdf_from_markdown
-from document_cache_manager import DocumentCacheManager  # Add this import
-from email_utils import send_email_with_attachment  # Import from your email.py (renamed for clarity)
+from .config import EMAIL_CONFIG
+from .langgraph_visualizer import visualize_graph_networkx
+from .advanced_graph import create_advanced_graph
+# from langchain.graphs.networkx_graph import visualize_graph
+from .parser import extract_text_from_pdf, generate_pdf_from_markdown
+from .document_cache_manager import DocumentCacheManager  # Add this import
+from .helper import template, format_structured_data, should_categorize, categorize_concerns
+from .email_utils import send_email_with_attachment  # Import from your email.py (renamed for clarity)
 
 
 # Initialize cache manager
@@ -125,17 +127,27 @@ def create_summary_files(result, pdf_path):
         dict: Paths to created files and extracted client name
     """
     try:
+
+        # Create backup directory if it doesn't exist
+        backup_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'backup'))
+        os.makedirs(backup_dir, exist_ok=True)
+        print(f"Backup directory created/verified at: {backup_dir}")
+
+        # Get the base filename without path or extension
+        base_filename = os.path.basename(pdf_path).replace(".pdf", "")
+
+        # Create a backup of the original PDF
         # Generate markdown summary
         markdown_content = render_markdown(result["summary"])
 
         # Save markdown summary
-        markdown_path = pdf_path.replace(".pdf", "_summary.md")
+        markdown_path = os.path.join(backup_dir, f"{base_filename}_summary.md")
         with open(markdown_path, "w", encoding="utf-8") as f:
             f.write(markdown_content)
         print(f"Markdown summary saved to {markdown_path}")
 
         # Try to generate PDF from markdown
-        pdf_output_path = pdf_path.replace(".pdf", "_summary.pdf")
+        pdf_output_path = os.path.join(backup_dir, f"{base_filename}_summary.pdf")
         summary_file_path = generate_pdf_from_markdown(markdown_content, pdf_output_path)
 
         # Check what kind of file was generated (PDF or HTML fallback)
@@ -152,7 +164,8 @@ def create_summary_files(result, pdf_path):
             "summary_path": summary_file_path,
             "summary_type": file_type,
             "json_path": json_path,
-            "client_name": result["summary"].get("clients", "Unknown Client")
+            "client_name": result["summary"].get("clients", "Unknown Client"),
+            "backup_dir": backup_dir  # Return the backup directory path for reference
         }
     except Exception as e:
         print(f"Error creating summary files: {str(e)}")
@@ -237,6 +250,17 @@ async def main():
     # Create the advanced graph
     print("Creating advanced processing graph...")
     graph = create_advanced_graph()
+
+    # Generate and save a diagram of the graph
+    backup_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'backup'))
+    os.makedirs(backup_dir, exist_ok=True)
+    diagram_path = os.path.join(backup_dir, "processing_graph_diagram.png")
+    try:
+        print("Generating graph visualization...")
+        visualize_graph_networkx(graph, diagram_path)
+    except Exception as e:
+        print(f"Error visualizing graph: {str(e)}")
+        print(traceback.format_exc())
 
     # Email configuration from config file
     send_emails = EMAIL_CONFIG.get("enabled", False)

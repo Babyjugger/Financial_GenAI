@@ -1,685 +1,867 @@
 {
-  "file": "/Users/jonathanlimjunjie/repos/Django_portfolio/portfolio/gen_ai/data/Sample Fact Find.pdf",
+  "file": "/Users/jonathanlimjunjie/repos/Financial_GenAI/data/Sample Fact Find.pdf",
   "summary": {
     "clients": "Prospect",
     "advisor": "FC",
     "meeting_date": "Not mentioned in this section",
-    "meeting_purpose": "Data scrapping and gap analysis to identify best practices and areas of improvement for training purposes",
+    "meeting_purpose": "Data scrapping and gap analysis for training purposes",
     "key_concerns": [
-      "Career plateau concern: possibly feeling stuck or stagnant in their career",
-      "Concern about funding kids' education and ensuring adequate coverage in case of disability or illness",
-      "Concern about retirement planning",
-      "Unclear what to do with fixed deposits (PIMCO) due to short-term nature",
-      "No specific reason given for preferring cash dividends over reinvestment",
-      "Concern about not being able to refinance a loan due to the outstanding principle being below $500,000",
-      "Difficulty keeping track of CDP (Central Depository) shares",
-      "Conflict of interest between banks and clients' interests",
-      "Difficulty finding insurance that covers exclusions",
-      "Concern about high insurance premiums, specifically mentioning a current annual premium of $3,007 and a projected future cost of $22.5k per year at age 80.",
-      "Concern about the impact of government changes on insurance plans",
-      "Unpaid bonus from last year: $25,000 (purpose not specified)",
-      "Missing expenses, such as vacation costs",
-      "Inflation concerns for travel expenses",
-      "Avoiding running out of cash savings in retirement",
-      "Optimizing investment drawdown strategy",
-      "Running out of money at age 77, with a shortfall of $204k per year",
-      "Eradicating shortfalls to ensure sustainable retirement income",
-      "Concern about covering expenses after retirement, including property tax, dining out, and vacation",
-      "Concern about funding children's education, specifically computing costs for Q",
-      "Medical costs increasing by $4,000 (purpose not specified)",
-      "Difficulty reducing expenses to match income",
-      "Insufficient life insurance coverage (TBD coverage barely covers half a year of income)",
-      "Complexity of medical conditions and exclusions in existing policies",
-      {
-        "Concern": "Mitral valve prolapse and its impact on insurance applications"
-      },
-      "Assuming a base case of retiring at 60, with uncertainty about job security after four years",
-      "Planning for a potential change of career or retrenchment",
-      "No specific percentage for dividend shares mentioned, but yields around 2% to 2.5% are desired; uncertainty surrounding vested Meta shares",
-      "Not decided what to do with vested Meta shares currently sitting in US dollar deposit account",
-      "Concern about reduced income after age 65 due to inflation, with a specific example of $100,000 per year currently but expecting it to be half that amount by then.",
-      "Concern about changes in lifestyle and expenses after retirement, including possibly not driving or eating out as much."
+      "Concern about not all details being in the right account or place",
+      "Career plateau concern: Prospect's career may not be progressing as expected, potentially impacting their financial situation.",
+      "Disability and illness concern: Prospect wants to ensure they are adequately covered in case of a disability or illness, so they don't become a burden to their family.",
+      "Not mentioned in this section",
+      "Concern about fixed deposits due in different tranches, with the longest being six months.",
+      "Uncertainty about what to do with the fixed deposits",
+      "Single issuer risk and the importance of diversification",
+      "Concern about CDP not always reflecting actual portfolio value",
+      "Concern about loan repayment and interest rate",
+      "Concern about dividend yield from Singapore shares, expecting around 2% to 2.5%",
+      "Concern about growth rate for long-term investments",
+      "Reducing Risa exposure due to vested investments",
+      "Uncertainty about what to do with vested investments",
+      "Understanding the impact of loan redemption on interest savings",
+      "Conflicting interests between banks and clients",
+      "Exclusion of Graves disease from insurance coverage",
+      "Difficulty finding an insurer that can cover Prospect 2's insurances",
+      "High expense for meat due to kids growing up",
+      "Income tax calculation discrepancy",
+      "Reducing debt: $1,000 credit line needed to reduce individual debt",
+      "Planning for retirement income: annual expenses of $21,000 until age 65",
+      "Unpaid remaining amount from last year: $25,500 (purpose not specified)",
+      "Vacation expenses for the family",
+      "Concern about inflation and its impact on their financial plans",
+      "School fees and tuition for Kai until university",
+      "Monthly dining out expenses: $1,000",
+      "Concern about reducing expenses by half after retirement, specifically mentioning two specific expenses that will decrease.",
+      "Concern about not expecting children to stay with them forever",
+      "Disability scenario: permanent income stop, long-term care expenses of $4,000 per month",
+      "Sanity and maintaining a realistic lifestyle",
+      "Ensuring adequate vacation time",
+      "Insufficient life insurance coverage, with the current policy barely covering half a year of income",
+      "Need to review existing policies and determine which ones to continue or replace",
+      "Metal-bound prolapse exclusion for back condition",
+      "Mitral valve prolapse",
+      "Blood clot in the eye, which occurred about 10 years ago (2009) and was treated with chiropractic manipulation. The clot has improved over time but there is no ongoing treatment.",
+      "Retro valve collapse, which was discovered during scans to figure out why there was a blood clot in the eye.",
+      "Client's concern about a black spot in their eye that has become a gray/fuzzy spot, and the uncertainty of its impact on their vision",
+      "Reducing expenses in retirement to achieve a sustainable lifestyle",
+      "Career disruption due to redundancy, with potential impact on income",
+      "Retirement planning and ensuring sufficient funds for lifestyle changes",
+      "The importance of contingency planning and considering different scenarios in personal financial planning",
+      "The need to think about all the possible scenarios that can go wrong",
+      "None mentioned",
+      "The client is concerned about the short-term nature of their fixed deposits, with the longest one being six months. They haven't figured out what to do with it yet.",
+      "The client prefers to take dividends in cash rather than reinvesting them, but didn't think about the implications.",
+      "The client is concerned about the performance of their Singapore stocks, specifically Singtel and OCBC, with a desire to achieve a reasonable return (2% to 2.5%) for dividend purposes.",
+      "The client finds it challenging to keep track of their CDP (Central Depository) account due to the lack of transparency from the provider.",
+      "The client prioritizes between spending money on dining out and giving to charity, with a preference for splitting the difference (half).",
+      "The client expresses concern about maintaining a balance between work and personal life, acknowledging the importance of taking breaks (vacation) while also recognizing the need to prioritize sanity.",
+      "The client has a pre-existing condition (blood clot in the eye) that affects their vision and may impact their ability to secure insurance. The client wants to know how different insurers would manage such an application.",
+      "The client has retro valve collapse, which was discovered during scans for the blood clot in the eye. There is no ongoing treatment for this condition.",
+      "Concern about retrenchment and potential impact on income: 'At 52, how much would your gross income bonus change? But I would say 50%.' This suggests uncertainty and concern about the financial implications of a potential career change.",
+      "Concern about expenses increasing with retirement: 'Once Kai goes to uni and... basically drawing down all the way.' This implies worry about being able to sustain their lifestyle in retirement."
     ],
     "assets": [
       "Not mentioned in this section",
       {
-        "type": "Cash",
-        "amount": "$250-$350",
-        "purpose": "Savings"
+        "Type": "Cash",
+        "Amount": "$250-$350",
+        "Purpose": "Savings and protection"
       },
       {
-        "type": "Investments and fixed deposit",
-        "amount": "Not specified",
-        "purpose": "Investment and savings"
+        "Type": "Investments",
+        "Amount": "300-400 in Hong Kong (HSBC)",
+        "Purpose": "Investments and fixed deposits"
       },
       {
-        "Type": "Fixed deposits (PIMCO)",
-        "Amount": "Short-term, not specified",
+        "Type": "Bond",
+        "Amount": "$200 US (~$26,260 SGD)",
+        "Purpose": "Pimco Trust investment"
+      },
+      {
+        "Type": "Cash Deposits",
+        "Amount": "$550",
+        "Purpose": "Additional cash deposits"
+      },
+      {
+        "Type": "Fixed deposits",
+        "Amount": "$400 (in his name)",
         "Purpose": "Investment"
       },
       {
         "Type": "JP Morgan US dollar bond",
-        "Amount": "$5% annual coupon",
+        "Amount": "Not specified",
+        "Purpose": "Investment for returns"
+      },
+      {
+        "Type": "Equities",
+        "Amount": "400 (Meta vested looking)",
         "Purpose": "Investment"
       },
       {
-        "type": "Equities",
-        "amount": "400 (Meta vested looking)",
+        "Type": "Other shares",
+        "Amount": "50,000 Sing dollars worth of liquid shares",
+        "Purpose": "Investment"
+      },
+      {
+        "type": "Singapore stocks",
+        "amount": "50,000",
         "purpose": "Investment"
       },
       {
-        "type": "Other shares",
-        "amount": "$50,000 worth of liquid shares",
+        "type": "Singapore Savings Bonds (SSBS)",
+        "amount": "100,000",
         "purpose": "Investment"
       },
       {
-        "type": "Loan",
-        "amount": "$50,000 (initial investment)",
-        "purpose": "Generating interest and growth"
-      },
-      "Unspecified bonus from last year: $25,500 (purpose not specified)",
-      "Vacation fund: $60,000 per year (split into two tiers: $20,000 for couple and $40,000 for kids) over the next five years",
-      "Wheelchair (purpose not specified): included in travel expenses",
-      {
-        "type": "Cash savings",
-        "amount": "$155,000 per year (inclusive of bonuses)",
-        "purpose": "Retirement income stream"
+        "Type": "USD deposit",
+        "Amount": "$170,000 (SGD)",
+        "Purpose": "Holding vested investments"
       },
       {
-        "type": "Investments",
+        "Type": "Sync",
+        "Amount": "Not specified",
+        "Purpose": "Investment portfolio diversification"
+      },
+      {
+        "type": "Mortgage",
+        "amount": "$143,000",
+        "purpose": "Paying off a mortgage with an interest rate of 4%"
+      },
+      {
+        "Type": "Insurance premiums",
+        "Amount": "Not specified",
+        "Purpose": "To cover insurances, including premiums"
+      },
+      {
+        "Type": "Household spending",
+        "Amount": "$100,000 per year",
+        "Purpose": "Annual living expenses"
+      },
+      {
+        "Type": "Individual debt",
+        "Amount": "$21,000",
+        "Purpose": "Reducing individual debt"
+      },
+      {
+        "Type": "Other assets (not specified)",
+        "Amount": "$27,000",
+        "Purpose": "Unknown, mentioned as 'latest' asset"
+      },
+      {
+        "type": "Mom's travel experiences and knowledge",
+        "amount": "Not quantified",
+        "purpose": "Inspiration for future travels"
+      },
+      "Cash: combined income from Kieran and others ($486 + $13 = $499)",
+      {
+        "type": "Long-term care insurance",
+        "amount": "$600 per month",
+        "purpose": "Insuring long-term care needs"
+      },
+      {
+        "type": "Utopia car",
+        "amount": "Not mentioned in this section",
+        "purpose": "Vehicle ownership"
+      },
+      {
+        "type": "Annual income",
+        "amount": "$290,000 per year",
+        "purpose": "Current income"
+      },
+      {
+        "type": "Term life insurance policy",
         "amount": "Not specified",
-        "purpose": "Long-term growth and retirement income"
+        "purpose": "Existing coverage"
       },
       {
-        "type": "CPFOA (Cash Position for Future Opportunities Account)",
-        "amount": "$322, sitting at a 2.5% interest rate",
-        "purpose": "Investment opportunity or continued earning of interest"
-      },
-      {
-        "type": "Current income",
-        "amount": "$6 million (reduced from $11 million)",
+        "type": "Savings",
+        "amount": "150k or so",
         "purpose": "Retirement savings"
       },
       {
-        "type": "Spare income",
+        "type": "Spare cash",
         "amount": "$150,000 per year",
-        "purpose": "Investment and wealth accumulation"
-      },
-      "Australian cash builds up: Not mentioned in this section",
-      "Investments: Liquidation of existing investments to fund retirement",
-      {
-        "type": "Term life insurance",
-        "amount": "Not mentioned in this section",
-        "purpose": "Life insurance coverage"
-      },
-      {
-        "type": "Cash value policy (finished paying premiums)",
-        "amount": "Not mentioned in this section",
-        "purpose": "Life insurance coverage and cash value accumulation"
-      },
-      {
-        "Type": "Not mentioned in this section",
-        "Amount": "Not mentioned in this section",
-        "Purpose": "Not mentioned in this section"
-      },
-      {
-        "Type": "Investments",
-        "Amount": "Not mentioned in this section",
-        "Purpose": "To grow, be safe, and liquid for future use"
-      },
-      "Other assets not mentioned in this section"
+        "purpose": "Emergency fund and retirement savings"
+      }
     ],
     "liabilities": [
       "Not mentioned in this section",
       {
-        "type": "Mortgage",
-        "amount": "$300-$400 (in Hong Kong, with HSBC)",
-        "terms": "Monthly payments"
+        "Type": "Loan",
+        "Amount": "Outstanding principle (amount not specified)",
+        "Terms": "Repayment schedule: $2550 per month; Interest rate: 4%"
       },
       {
-        "type": "Other liabilities",
-        "amount": "Not specified",
+        "Type": "Estate duty",
+        "Amount": "Above $60,000 (18-40% rate)",
+        "Terms": "Applicable to US investments only"
+      },
+      {
+        "type": "Mortgage",
+        "amount": "$143,000",
+        "terms": "72 months at 4% interest"
+      },
+      {
+        "Type": "Insurance exclusions",
+        "Amount": "Not specified",
+        "Terms": "Exclusion of Graves disease from insurance coverage"
+      },
+      {
+        "Type": "Loan repayment",
+        "Amount": "Not mentioned in this section",
+        "Terms": "Already repaid"
+      },
+      {
+        "Type": "Insurance premiums",
+        "Amount": "Not mentioned in this section",
+        "Terms": "Assigned to each person, not doubled up"
+      },
+      {
+        "Type": "Credit line",
+        "Amount": "$1,000",
+        "Terms": "To reduce individual debt"
+      },
+      {
+        "type": "Mortgage payment (not specified)",
+        "amount": "$2,000 per month",
+        "terms": "Monthly mortgage payment"
+      },
+      "School fees and tuition for Kai until university (amount not specified, terms not specified)",
+      {
+        "type": "TPD insurance",
+        "amount": "$64,000",
         "terms": "Not specified"
       },
       {
-        "type": "Loan",
-        "amount": "Not specified (outstanding principle)",
-        "terms": "6% interest rate, 6 more years to go"
+        "type": "Monthly insurance payment",
+        "amount": "$400 per month",
+        "terms": "Not specified"
       },
       {
-        "type": "Loan",
-        "amount": "$4% (annual interest rate)",
-        "terms": "Not specified in this section"
-      },
-      "Insurance premiums: $3,007 per year (current) and projected $22.5k per year at age 80",
-      "Unpaid bonus from last year: $25,000 (purpose not specified)",
-      "Mortgage payment: Not mentioned in this section (amount and terms not specified)",
-      {
-        "type": "Mortgage",
+        "type": "Term life insurance policy",
         "amount": "Not specified",
-        "terms": "Monthly mortgage payment (frequency not specified)"
+        "terms": "Current coverage, no cash value"
       },
       {
-        "type": "Shortfalls in retirement income",
-        "amount": "$204k per year",
-        "terms": "Withdrawal from CPFOA to prevent borrowing and ensure sustainable income"
-      },
-      {
-        "type": "Long-term care expenses",
-        "amount": "$4,000 per month",
-        "terms": "Permanent disability scenario"
-      },
-      "TPD insurance policies: $64,000 (purpose not specified)",
-      "Monthly insurances payments: $400 per month (purpose not specified)",
-      {
-        "type": "Term life insurance with back exclusion",
-        "amount": "Not mentioned in this section",
-        "terms": "Exclusion for back-related causes of death"
-      },
-      {
-        "type": "Metal-bound prolapse condition (medical liability)",
-        "amount": "Not mentioned in this section",
-        "terms": "Unknown"
-      },
-      {
-        "Type": "Not mentioned in this section",
-        "Amount": "Not mentioned in this section",
-        "Terms": "Not mentioned in this section"
-      },
-      {
-        "Type": "Mortgage or other debt",
-        "Amount": "Not mentioned in this section",
-        "Terms": "Not specified"
+        "type": "Insurance coverage",
+        "amount": "Not specified",
+        "terms": "Assuming four more years of working for the advisor"
       }
     ],
     "income": [
       "Not mentioned in this section",
+      "Monthly income: Not specified (purpose not specified)",
       {
-        "source": "Simon's income",
-        "amount": "Not specified",
-        "frequency": "Not specified"
+        "Source": "Prospect's account",
+        "Amount": "Direct from my account (amount not specified)",
+        "Frequency": "Not specified"
       },
       {
-        "source": "Prospect's account",
-        "amount": "$1006 (cash)",
-        "frequency": "Direct from my account"
+        "Source": "CPF (Prospect 2)",
+        "Amount": "$950 per month",
+        "Frequency": "Monthly"
       },
       {
-        "source": "CPF (Central Provident Fund) contributions",
-        "amount": "$950 per month",
+        "Source": "Not specified",
+        "Amount": "Not mentioned in this section",
+        "Frequency": "Not applicable"
+      },
+      {
+        "source": "Monthly income",
+        "amount": "$20,000 per month",
         "frequency": "Monthly"
+      },
+      {
+        "source": "Annual bonus",
+        "amount": "Target bonus (average includes 13 months)",
+        "frequency": "Annually"
+      },
+      {
+        "Source": "Not mentioned in this section",
+        "Amount": "Not specified",
+        "Frequency": "Not applicable"
+      },
+      {
+        "Source": "Prospect's income",
+        "Amount": "$100,000 per year",
+        "Frequency": "Annual"
+      },
+      {
+        "Source": "Prospect 2's income",
+        "Amount": "Not mentioned in this section",
+        "Frequency": "Not specified"
+      },
+      {
+        "Source": "Annual income",
+        "Amount": "$34,327",
+        "Frequency": "Annually"
+      },
+      {
+        "Source": "Bonus (not specified)",
+        "Amount": "$25,000 per year",
+        "Frequency": "Annually"
       },
       {
         "source": "Prospect's income",
-        "amount": "$20,000 per month (gross)",
-        "frequency": "Monthly"
-      },
-      {
-        "source": "Target bonus",
-        "amount": "Average: $13 months (target amount)",
-        "frequency": "Annual"
-      },
-      "Annual living expenses: Not mentioned in this section",
-      "Monthly income: Not mentioned in this section",
-      "Monthly income: Not mentioned in this section (source, amount, and frequency not specified)",
-      {
-        "source": "Dividends",
-        "amount": "$13,000 per year",
-        "frequency": "Annual"
-      },
-      {
-        "source": "Active income salaries",
         "amount": "Not specified",
         "frequency": "Monthly"
       },
+      "Combined cash income: $486 + $13 = $499",
+      "Amount Dividends: $13 per month (purpose not specified in transcript)",
       {
-        "source": "CPFOA interest income",
-        "amount": "2.5% of $322 (approximately $8,050)",
-        "frequency": "Yearly"
+        "Source": "Retirement income",
+        "Amount": "$500 per month (current)",
+        "Frequency": "Monthly"
       },
+      "Annual income: $100,000 per year (not specified what it's for)",
       {
-        "source": "Current income",
-        "amount": "$6 million (reduced from $11 million)",
-        "frequency": "Annual"
+        "source": "Prospect EPD's income",
+        "amount": "Not mentioned in this section",
+        "frequency": "Ongoing"
       },
-      {
-        "source": "Investment returns",
-        "amount": "Not specified",
-        "frequency": "Not specified"
-      },
-      "Annual bonuses: Not mentioned in this section",
       {
         "source": "Annual income",
         "amount": "$290,000 per year",
         "frequency": "Annually"
       },
+      "Off-the-counter hypocol medication (cost not specified) for manageable cholesterol levels",
+      "Annual cardiologist visit: yearly expense (amount not specified)",
       {
-        "Source": "Not mentioned in this section",
-        "Amount": "Not mentioned in this section",
-        "Frequency": "Not mentioned in this section"
-      },
-      {
-        "Source": "Job income",
-        "Amount": "$300,000 per year (current salary)",
-        "Frequency": "Annual"
-      },
-      {
-        "Source": "Potential new career or retrenchment income",
-        "Amount": "$200,000 per year (proposed new salary)",
-        "Frequency": "Annual"
+        "source": "Client's income",
+        "amount": "Not specified",
+        "frequency": "Annual"
       }
     ],
     "expenses": [
       "Not mentioned in this section",
+      "Annual living expenses: Not specified (purpose not specified)",
+      "Free food expenses: FC's friend has gained 10 kilos due to free food at work, but this is not a financial goal or concern for the Prospect.",
       {
-        "type": "Living expenses",
-        "amount": "$100,000 per year (purpose not specified)",
+        "Type": "Loan repayment",
+        "Amount": "$2550 per month",
+        "Frequency": "Monthly"
+      },
+      "Expense mentioned: $1006 (purpose not specified)",
+      {
+        "Type": "Estate duty",
+        "Amount": "Above $60,000 (18-40% rate)",
+        "Purpose": "Applicable to US investments only"
+      },
+      {
+        "type": "Mortgage payment",
+        "amount": "$1,004 per month",
+        "frequency": "Monthly"
+      },
+      {
+        "Type": "Premiums and medisave portion",
+        "Amount": "$3,007 per year",
+        "Purpose": "To pay for insurance premiums and medisave portion"
+      },
+      {
+        "Type": "Groceries and marketing",
+        "Amount": "$100,000 per year (purpose not specified)",
+        "Frequency": "Annual"
+      },
+      {
+        "Type": "Utility bills",
+        "Amount": "Not mentioned in this section",
+        "Frequency": "Monthly"
+      },
+      {
+        "Type": "Car-related expenses",
+        "Amount": "Not mentioned in this section",
+        "Frequency": "Varies"
+      },
+      {
+        "Type": "Annual expenses",
+        "Amount": "$21,000",
+        "Frequency": "Annually",
+        "Purpose": "Living expenses until age 65"
+      },
+      {
+        "Type": "Kids' expenses (not specified)",
+        "Amount": "Unknown",
+        "Frequency": "Unknown",
+        "Purpose": "Unknown"
+      },
+      {
+        "type": "Vacation expenses",
+        "amount": "$60,000 (split into two tiers: $20,000 for the couple and $40,000 for the kids)",
         "frequency": "Annual"
       },
       {
-        "type": "Other expenses",
-        "amount": "Not specified",
-        "frequency": "Not specified"
+        "type": "Unpaid remaining amount from last year",
+        "amount": "$25,500 (purpose not specified)",
+        "frequency": "One-time payment"
       },
       {
-        "type": "Loan repayment",
-        "amount": "$2550 per month",
-        "frequency": "Monthly"
+        "type": "Travel expenses (not specified)",
+        "amount": "$14,000 up to $1999",
+        "purpose": "Travel planning"
       },
       {
-        "type": "Other expenses (not specified)",
-        "amount": "Not mentioned in this section",
-        "frequency": "Not specified"
+        "type": "Dining out",
+        "amount": "$10,000 per year",
+        "purpose": "Entertainment and dining out"
+      },
+      "Monthly dining out expenses: $1,000",
+      "School fees and tuition for Kai until university (amount not specified, frequency not specified)",
+      {
+        "Type": "Public transport",
+        "Amount": "Double the current amount ($500 per month)",
+        "Frequency": "Monthly",
+        "Purpose": "Commuting and transportation needs after retirement"
       },
       {
-        "type": "Hospitalization plan",
-        "amount": "Not specified in this section",
-        "frequency": "As needed"
+        "Type": "Parking and Petrolex servicing",
+        "Amount": "Not specified (will have to go up)",
+        "Frequency": "Not specified",
+        "Purpose": "Transportation-related expenses"
       },
-      "Annual insurance premium: $3,007",
-      "Projected annual insurance premium at age 80: $22.5k (due to inflation)",
-      "Vacation costs: $60,000 per year (split into two tiers: $20,000 for couple and $40,000 for kids) over the next five years",
-      "Travel expenses: Varies depending on destination and duration of trip",
-      "Annual living expenses: $100k per year",
-      "Dining out: $1,000 per month",
-      "School fees: $2000 per month (until this year)",
-      "Tuition fees: $2000 per month (until this year)",
-      {
-        "type": "Living expenses",
-        "amount": "Not specified",
-        "frequency": "Monthly"
-      },
+      "Household spending: $4,000 per month (long-term care expenses)",
+      "Dining out: 50% reduction",
+      "Vacation: 50% reduction",
       {
         "type": "Household spending",
-        "amount": "$100k per year",
-        "purpose": "Annual living expenses"
+        "amount": "20%",
+        "purpose": "Daily living expenses"
       },
       {
-        "type": "Unknown expense (mentioned: $10,000 per month)",
-        "amount": "$10,000 per month",
-        "purpose": "Not specified in the transcript"
+        "type": "Dining out and tithing",
+        "amount": "Half",
+        "purpose": "Food and charitable giving"
       },
       {
-        "type": "Property tax, dining out, and vacation",
+        "type": "Couple vacation",
+        "amount": "Half or three-quarters",
+        "purpose": "Travel and leisure"
+      },
+      {
+        "type": "Not mentioned in this section",
         "amount": "Not specified",
         "frequency": "Not specified"
       },
+      "Slip disk condition: Not specified (purpose not mentioned)",
+      "Annual living expenses: Not specified (purpose not mentioned)",
+      "Annual living expenses: Not specified",
+      "Yearly cardiologist visit: $0 per year (expense for maintaining heart health)",
       {
-        "type": "Annual living expenses",
-        "amount": "$100,000 per year",
-        "frequency": "Annual"
-      },
-      "Household expenses: 20% of household income (purpose not specified)",
-      "Vacation costs: Couple vacation is hard (amount not specified)",
-      {
-        "type": "Not mentioned in this section",
-        "amount": "Not mentioned in this section",
-        "frequency": "Unknown"
+        "type": "Annual expenses",
+        "amount": "150k or so",
+        "purpose": "Retirement expenses"
       },
       {
-        "Type": "Chiropractic manipulation (twice a week)",
-        "Amount": "Not specified",
-        "Frequency": "Twice a week"
+        "type": "Living expenses",
+        "amount": "Not specified",
+        "frequency": "Monthly"
       },
       {
-        "Type": "Education expenses (Kai's university tuition)",
-        "Amount": "Not mentioned in this section",
-        "Frequency": "Annual or bi-annual"
-      }
+        "type": "Retirement expenses",
+        "amount": "Not specified",
+        "frequency": "Quarterly"
+      },
+      "Monthly living expenses: Not specified (amount not mentioned)",
+      "Investment expenses: Not specified (amount not mentioned)"
     ],
     "discussion_points": [
-      "Comprehensive summary of discussion point: reviewing data, identifying best practices, and areas for improvement",
-      "Discussion about the importance of planning for kids' education and retirement",
-      "Discussion about the need to ensure adequate coverage in case of disability or illness",
+      "Review of appointments, best practices, and areas for improvement",
+      "Data scrubbing and testing different scenarios",
+      "Identifying blind spots, gaps, and opportunities",
+      "Gap analysis for retirement and protection, aligning cash flow for both purposes, and reviewing feedback on the session",
       "Additional details from transcript section",
-      "Discussion on PIMCO fixed deposits and JP Morgan US dollar bond",
-      "Discussion on dividend reinvestment vs. cash dividends",
-      "Discussion about the CDP and its limitations",
-      "Review of investment strategy and assumptions",
-      "The importance of considering interest savings and growth rates when making financial decisions",
-      "The need to balance risk tolerance with investment goals",
-      "Discussion about the impact of government changes on insurance plans and the need for reorganization",
-      "Review of current insurance premiums and projected future costs",
-      "Review of financial situation and planning for future expenses and vacations",
-      "Discussion of travel habits and budgeting strategies",
-      "Discussion on travel expenses and inflation concerns",
-      "Discussion on tithing goals and monthly donations",
-      "Analyzing investment drawdown strategy and its impact on retirement income",
-      "Evaluating the importance of cash savings in retirement planning",
-      "Customizing retirement scenario to reflect reduced expenses and passive income",
-      "Eradicating shortfalls to ensure sustainable retirement income",
-      "Retirement planning and income needs",
-      "Funding children's education and potential career paths",
-      "The importance of monthly income or annual bonuses in retirement planning",
-      "The impact of disability on retirement cash flow",
-      "Review of existing insurance policies and their limitations",
+      "Discussion about fixed deposits and their due dates",
+      "Discussion about PIMCO fund and dividend reinvestment or payout",
+      "Discussion on the specific bond investment and its characteristics",
+      "Comparison of single issuer instruments to diversified investments",
+      "Discussion about optimizing investment portfolio and managing loan liability",
+      "Discussion about the importance of considering risk tolerance in financial planning",
+      "Discussion about dividend yield from Singapore shares",
+      "Discussion about growth rate for long-term investments",
+      "The importance of diversifying investment portfolio to minimize estate duty in the US",
+      "The need to find a suitable solution for vested investments",
+      "The importance of considering interest savings when redeeming a mortgage",
+      "The potential conflict of interest between banks and clients",
+      "Discussion on target amount for financial planning",
+      "Explanation of insurance exclusions and coverage",
+      "Reviewing household expenses and discussing financial planning",
+      "Income tax calculation discrepancy",
+      "Reviewing financial situation and planning for retirement",
+      "Discussing individual debt reduction strategies",
+      "Review of financial situation and planning for vacations",
+      "Discussion on splitting vacation expenses into two tiers: one for the couple and one for the kids",
+      "Discussion about mom's travel experiences and their impact on financial planning",
+      "Discussion about tithing and charitable giving",
+      "Planning for education expenses beyond this year",
+      "Reviewing income and expenses to determine savings potential",
+      "Discussion about reducing certain expenses by half after retirement",
+      "Discussion about the prospect's expectations for their children's involvement in their lives",
+      "Discussion on reducing household spending by 20%",
+      "Discussion on reducing dining out and vacation expenses",
+      "The importance of maintaining a realistic lifestyle",
+      "The need for adequate vacation time",
+      "Review of insurance coverage and planning for retirement",
       "Comparison of current coverage to future income needs",
-      {
-        "Point": "The client's experience with a previous agent and doctor, which led to the inclusion of pre-existing conditions in their medical records"
-      },
-      {
-        "Point": "The potential impact of these pre-existing conditions on future insurance applications"
-      },
-      "Assuming a base case of retiring at 60 and planning for potential changes in income and expenses",
-      "Considering the impact of retrenchment on investments and cash flow"
+      "Discussion about medical conditions and exclusions",
+      "Discussion about previous agent's performance",
+      "Discussion around the prospect's pre-existing conditions and their potential impact on insurance applications",
+      "Review of the prospect's medical history, including the blood clot in the eye and retro valve collapse",
+      "Discussion about the client's eye condition and its impact on their vision",
+      "Balancing needs and wants in retirement, and finding a realistic approach to expense reduction",
+      "Building scenarios for career disruption and retirement planning",
+      "Assuming the advisor will retire at age 60",
+      "The importance of planning and considering different scenarios in personal financial planning",
+      "Sharing insights on insurance, loss of income, and contingency planning",
+      "Meeting scheduling and trip planning for the Prospect's 50th celebration",
+      "Using Zoom for meetings"
     ],
-    "risk_profile": "Client's risk tolerance is not explicitly mentioned in this section",
+    "risk_profile": "Not mentioned in this section",
     "financial_goals": [
       "Not mentioned in this section",
+      "Retirement goal: Simon (65) wants to retire before that age. FC will test this scenario.",
+      "Funding kids' education goal: Prospect wants to be ready to fund their children's education, including overseas university as needed.",
+      "Goal to optimize investments and consider dividend reinvestment or payout",
+      "Goal to review and adjust investment strategy",
+      "Investment returns: 5% or higher (10-year bond with annual coupons)",
+      "Goal to optimize investment portfolio with assumption of 6% annual return",
+      "Goal to manage loan liability with current repayment schedule and interest rate",
       {
-        "goal": "To fund kids' education, including overseas uni as needed",
-        "timeframe": "Not specified",
-        "metrics": "Not specified"
+        "goal": "Grow investments over time",
+        "timeframe": "Long-term",
+        "metrics": "Assuming a growth rate of 2.5% to 3%"
       },
+      "Diversifying investment portfolio to minimize estate duty in the US",
+      "Finding a suitable solution for vested investments",
       {
-        "goal": "To make sure that you're adequately covered and don't end up being a burden to the rest of the family if something like that were to happen",
-        "timeframe": "Not specified",
-        "metrics": "Not specified"
-      },
-      {
-        "goal": "For retirement",
-        "timeframe": "Simon wants to retire before age 65",
-        "metrics": "Not specified"
-      },
-      {
-        "goal": "Long-term investment strategy",
-        "timeframe": "Not specified",
-        "metrics": "Assuming a 6% annual return"
-      },
-      {
-        "description": "Grow wealth more than 2% per year",
-        "timeframe": "Over the course of six years",
+        "description": "Redeeming a mortgage with an interest rate of 4%",
+        "timeframe": "6 years",
         "metrics": "Interest savings: $6,003"
       },
-      "Goal to reorganize the hospitalization and critical illness parts of the insurance plan",
-      "Goal to explore other insurance options",
-      "Plan for future vacations with kids: $60,000 per year (split into two tiers: $20,000 for couple and $40,000 for kids) over the next five years",
-      "Continue to travel and explore new places without breaking the bank",
-      "Tithing goal: $2,000 per month (10% of income) until age 65",
-      "University tuition fees: $2000 per month (until this year)",
+      "Maintaining a target amount for financial planning",
+      "Ensuring adequate insurance coverage for Prospect 2",
+      "Retire comfortably by age 65 with an annual income of $34,327 minus expenses",
+      "Save for future goals and expenses, including annual vacations and kids' expenses",
       {
-        "goal": "Retire with a sustainable income stream",
-        "timeframe": "34 years (65-99)",
-        "metrics": "Maintain a certain standard of living without depleting cash savings"
+        "goal": "Save for future vacations",
+        "timeframe": "Ongoing",
+        "metrics": "Split vacation budget into two tiers: $20,000 for the couple and $40,000 for the kids"
       },
       {
-        "goal": "Retire at age 65 and maintain passive income",
-        "timeframe": "Age 65 and beyond",
-        "metrics": "No shortfall in retirement income"
+        "goal": "Retire by age 65",
+        "timeframe": "By age 65",
+        "metrics": "Not specified"
+      },
+      "Save approximately $155,000 per year (average) inclusive of bonuses",
+      "Plan for education expenses beyond this year",
+      {
+        "Goal": "Stop working at 60",
+        "Timeframe": "By age 65",
+        "Metrics": "Decrease certain expenses by half"
       },
       {
-        "goal": "Save for retirement",
-        "timeframe": "15 years",
-        "metrics": "Double current income to $10 million"
+        "goal": "Sustainable lifestyle",
+        "timeframe": "Ongoing",
+        "metrics": "Maintaining sanity and enjoying vacations"
       },
       {
-        "goal": "Fund children's education (computing and biochemistry)",
-        "timeframe": "3-4 years",
-        "metrics": "Annual expenses: $100,000 per year for Q; 5% optimization"
-      },
-      "Continue working until age 65 (Prospect) or age 79 (spouse)",
-      "Maintain a comfortable lifestyle throughout retirement",
-      {
-        "goal": "Fully cover Prospect's future income with life insurance",
-        "timeframe": "15 years to age 65",
-        "metrics": "4.3 million future income"
+        "goal": "Retirement planning",
+        "timeframe": "Next 15 years until age 65",
+        "metrics": "Future income: $4.3 million (assuming no salary increases)"
       },
       {
-        "Goal": "To understand how the client's pre-existing conditions will affect their future insurance applications"
+        "goal": "Retirement savings",
+        "timeframe": "Years to retirement",
+        "metrics": "150k or so of savings per year"
       },
       {
-        "Goal": "Retire at 60",
-        "Timeframe": "Not specified",
-        "Metrics": "Assuming a base case of retiring at 60"
+        "goal": "Retire at age 60",
+        "timeframe": "In four years",
+        "metrics": "Custom lifestyle changes"
       },
-      {
-        "Goal": "Change of career or retrenchment",
-        "Timeframe": "Not specified",
-        "Metrics": "Planning for potential changes in income and expenses"
-      },
-      "Achieve long-term growth rate of around 2.5% through investments; diversify outside of the US due to estate duties and taxes on assets above $60,000 ( timeframe: not specified, metrics: not mentioned)",
-      {
-        "Goal": "Reduce expenses on vacations",
-        "Timeframe": "Not mentioned in this section",
-        "Metrics": "Currently $40 per year, but expecting it to be lower due to inflation"
-      },
-      {
-        "Goal": "Increase expenses on public transport",
-        "Timeframe": "Not mentioned in this section",
-        "Metrics": "Currently $500 per month, with an expected increase due to retirement and reduced driving"
-      }
+      "None mentioned",
+      "The client aims to grow their investment in Singapore stocks, specifically Singtel and OCBC, with a long-term growth rate assumption of 2.5% to 3%.",
+      "The client has a lump sum investment in these stocks, which they have not actively managed or added to since the initial investment.",
+      "Continue funding children's vacations; timeframe and metrics not specified.",
+      "Maintain a sustainable lifestyle; timeframe and metrics not mentioned.",
+      "Build a realistic and representative disability scenario; timeframe not specified.",
+      "Goal to reduce income by 35%: 'So it will change. Yeah, 35%.' This goal is specific to a potential career change and includes a timeframe (not explicitly stated) and a metric (reduced income).",
+      "Goal to plan for retirement expenses: 'We need to plan for that actually.' This goal is general but implies a desire to ensure financial sustainability in retirement."
     ],
     "scenarios": [
       "Not mentioned in this section",
+      "Retirement scenario: FC will test the possibility of Simon retiring before age 65.",
+      "Career plateau scenario: FC will explore ways to overcome career plateau concerns.",
+      "Scenario: Reinvesting dividends from the PIMCO fund",
+      "Scenario: Paying out dividends in cash from the PIMCO fund",
       {
-        "scenario": "Scenario 1: Retirement before age 65",
-        "assumptions": "Not specified",
-        "outcomes": "Not specified"
+        "Assumptions": "6% annual return on investment",
+        "Outcomes": "Optimized investment portfolio"
       },
       {
-        "scenario": "Long-term investment scenario with assumed 6% annual return",
-        "assumptions": "Not specified",
-        "outcomes": "Not specified"
+        "scenario": "Reinvested dividend income",
+        "assumptions": "Assuming a growth rate of 2.5% to 3%",
+        "outcomes": "Potential for long-term growth"
       },
       {
-        "description": "Scenario: Growing wealth more than 2% per year",
-        "assumptions": "Compounded growth rate of 2%",
+        "Assumptions": "Vested investments are held in USD deposit",
+        "Outcomes": "Minimize estate duty by diversifying investment portfolio"
+      },
+      {
+        "description": "Redeeming the mortgage with an interest rate of 4%",
+        "assumptions": "Interest rate: 4%, loan term: 72 months",
         "outcomes": "Interest savings: $6,003"
       },
-      "Scenario: Current insurance premium of $3,007 per year with a projected increase to $22.5k at age 80 due to inflation",
-      "Scenario: Exploring other insurance options to reduce costs",
-      "Scenario: Planning for future vacations with kids over the next five years",
-      "Scenario: Continuing to travel and explore new places without breaking the bank",
-      "Scenario: Travel planning with end date of 1999 (inflation concerns discussed)",
       {
-        "scenario": "Drawing down investments upon retirement",
-        "assumptions": "Assumes a 34-year drawdown period (65-99)",
-        "outcomes": "Maintains a sustainable income stream in retirement"
+        "Assumptions": "Not specified",
+        "Outcomes": "Not applicable"
       },
       {
-        "scenario": "Retirement at age 65 with passive income from CPFOA",
-        "assumptions": "No shortfall in retirement income",
-        "outcomes": "Sustainable retirement income"
-      },
-      {
-        "scenario": "Permanent disability scenario",
-        "assumptions": "Income stops permanently; expenses increase to $4,000 per month for long-term care",
-        "outcomes": "Impact on retirement savings and overall financial plan"
-      },
-      "Scenario: Liquidating existing investments to fund retirement, with a focus on maintaining a comfortable lifestyle",
-      "Scenario: Continuing to work until age 65 (Prospect) or age 79 (spouse), with a focus on maintaining a comfortable lifestyle",
-      {
-        "scenario": "Scenario where Prospect's back condition affects life insurance claim",
-        "assumptions": "Exclusion for back-related causes of death in existing policy",
-        "outcomes": "No coverage or reduced payout"
-      },
-      {
-        "Scenario": "How different insurers might manage the client's application considering their pre-existing conditions"
-      },
-      {
-        "Scenario": "Retirement at 60 with current job income",
-        "Assumptions": "Assuming four more years of working before retirement",
+        "Assumptions": "Not mentioned in this section",
         "Outcomes": "Not specified"
       },
       {
-        "Scenario": "Change of career or retrenchment",
-        "Assumptions": "Assuming a potential change in income and expenses",
-        "Outcomes": "Not specified"
-      }
+        "Assumptions": "Reducing individual debt by $1,000",
+        "Outcomes": "Increased disposable income for retirement savings"
+      },
+      {
+        "scenario": "Planning for future vacations with a family of four",
+        "assumptions": "Assumes that the couple will continue to vacation with their kids until they are 18 and then stop",
+        "outcomes": "Aims to save $60,000 per year for vacations"
+      },
+      {
+        "scenario": "Scenario for retirement at age 65 with inflation considerations",
+        "assumptions": "Not specified",
+        "outcomes": "Not specified"
+      },
+      "Not applicable",
+      {
+        "Scenario": "Retirement scenario with reduced expenses and increased public transport costs",
+        "Assumptions": "Age 65, no longer driving or using cabs",
+        "Outcomes": "Increased public transport costs, decreased other expenses"
+      },
+      "Disability scenario: permanent income stop, long-term care expenses of $4,000 per month",
+      {
+        "scenario": "Prospect EPD's financial scenario with reduced expenses and continued income",
+        "assumptions": "Reduced expenses by 15%",
+        "outcomes": "Maintaining a sustainable lifestyle"
+      },
+      {
+        "scenario": "Retirement scenario: assuming no salary increases and reviewing existing policies",
+        "assumptions": "Future income: $4.3 million",
+        "outcomes": "Insufficient current coverage"
+      },
+      "Scenario of having a minor stroke in the eye",
+      "Scenario of getting insurance with exclusion for minor stroke",
+      {
+        "scenario": "Reducing expenses in retirement",
+        "assumptions": "Cutting non-discretionary expenses",
+        "outcomes": "Achieving a sustainable lifestyle"
+      },
+      {
+        "scenario": "Career disruption scenario: assuming four more years of working",
+        "assumptions": "Advisor's income will stop at age 60",
+        "outcomes": "Custom lifestyle changes"
+      },
+      "Scenario: Loss of income due to unexpected events (e.g., job loss)",
+      "Scenario: Unexpected expenses or financial emergencies",
+      "None mentioned"
     ],
     "recommendations": [
       "Not mentioned in this section",
+      "Recommendation: Review and adjust investment strategy to optimize returns",
+      "Recommendation: Consider dividend reinvestment or payout from the PIMCO fund",
+      "Recommendation to continue monitoring and adjusting the investment portfolio as needed",
+      "Recommendation to consider refinancing the loan when possible",
       {
-        "recommendation": "To prioritize retirement planning and ensure adequate coverage in case of disability or illness",
-        "rationale": "To achieve financial security and avoid being a burden to the rest of the family"
+        "recommendation": "Consider a conservative investment strategy with a focus on dividends and stability",
+        "rationale": "Based on the client's risk tolerance and financial goals"
       },
       {
-        "recommendation": "Assuming a 6% annual return for long-term investments",
-        "rationale": "Based on the prospect's risk tolerance and investment goals"
+        "Rationale": "Diversify investment portfolio to minimize estate duty and maximize returns",
+        "Action item": "Explore alternative investment options for vested investments"
       },
       {
-        "description": "Continue to grow wealth through investments and avoid paying off loans too quickly",
-        "rationale": "To take advantage of compound interest and grow wealth more than 2% per year"
-      },
-      "Recommendation to consider other insurance options and reorganize the hospitalization and critical illness parts of the plan",
-      "Recommendation to review and adjust the plan regularly to account for changes in government policies and inflation",
-      "Recommendation: Create a budget and track expenses to ensure accurate financial planning",
-      "Recommendation: Consider setting aside a portion of income each month for vacation savings",
-      "Recommendation: Review and adjust expenses for travel and tithing goals",
-      {
-        "recommendation": "Consider selling investments at a faster rate to avoid depleting cash savings",
-        "rationale": "To ensure a sustainable income stream in retirement"
+        "description": "Consider redeeming the mortgage to save on interest",
+        "rationale": "The potential interest savings outweigh the costs of keeping the loan"
       },
       {
-        "recommendation": "Withdraw $204k per year from CPFOA to prevent borrowing and ensure sustainable retirement income",
-        "rationale": "To eradicate shortfalls and maintain passive income in retirement"
+        "Rationale": "To ensure adequate insurance coverage for Prospect 2's insurances",
+        "Recommendation": "Continue with current insurance plan"
       },
-      "Invest spare income in a diversified portfolio with a focus on long-term growth",
-      "Prioritize funding children's education through dedicated savings plans",
-      "Liquidate existing investments to fund retirement and maintain a comfortable lifestyle",
-      "Continue working until age 65 (Prospect) or age 79 (spouse) to ensure long-term sustainability",
+      "Create a credit line to reduce individual debt",
+      "Prioritize debt reduction and retirement savings",
       {
-        "recommendation": "Review and replace existing policies to ensure adequate coverage",
-        "rationale": "Insufficient current coverage and changing medical conditions"
+        "recommendation": "Split vacation expenses into two tiers: one for the couple and one for the kids",
+        "rationale": "To make budgeting more manageable and ensure that both the couple and the kids have a fun and memorable experience"
       },
       {
-        "Recommendation": "To unofficially check with different insurers to understand how they would handle the client's application"
+        "recommendation": "Plan for travel expenses and consider inflation",
+        "rationale": "Based on discussion about mom's travel experiences"
       },
-      "Developing a comprehensive financial plan to ensure a secure retirement",
-      "Considering the impact of retrenchment on investments and cash flow"
+      "Continue to review and adjust financial plan as needed",
+      "Consider exploring additional income sources or reducing expenses to increase savings potential",
+      {
+        "Recommendation": "Double the current public transport expense to account for increased usage after retirement",
+        "Rationale": "To ensure adequate transportation options and flexibility"
+      },
+      {
+        "recommendation": "Replicate the long-term care insurance plan for Prospect EPD's spouse",
+        "rationale": "To ensure joint coverage and stability"
+      },
+      {
+        "recommendation": "Review and adjust existing life insurance policies to ensure adequate coverage",
+        "rationale": "To ensure that the clients are fully covered in case of unexpected events"
+      },
+      "Recommendation to move away from previous agent",
+      "Recommendation to be cautious when seeking new insurance",
+      "FC wants to unofficially check with different insurers to see how they would manage the prospect's application, given his pre-existing conditions.",
+      {
+        "recommendation": "Invest lump sums and cash in hand for retirement",
+        "rationale": "To grow savings and achieve long-term goals"
+      },
+      {
+        "recommendation": "Build in a scenario for career disruption and retirement planning",
+        "rationale": "To ensure sufficient funds for lifestyle changes"
+      },
+      "None mentioned"
     ],
     "action_items": [
-      "FC will do homework after this session and come back to the Prospect with subsequent recommendations",
+      "Notify the client once the recording has been scrubbed and turned into a training material",
+      "FC will do homework after this meeting and come back with subsequent recommendations",
+      "FC will test different scenarios and identify blind spots, gaps, and opportunities",
+      "Not mentioned in this section",
+      "Action item: Follow up with banker to discuss investment options",
+      "Action item: Review and adjust investment strategy",
       {
-        "item": "Complete data scrubbing and gap analysis",
-        "responsible party": "Simon",
-        "timeline": "Not specified"
-      },
-      {
-        "Item": "Follow up with banker on PIMCO fixed deposits",
-        "Responsible party": "Prospect",
+        "Responsible party": "FC (financial advisor)",
         "Timeline": "Not specified"
       },
       {
-        "item": "Review and adjust investment strategy as needed",
-        "responsible party": "FC (financial advisor)",
+        "Responsible party": "Prospect",
+        "Timeline": "Short-term (next meeting)"
+      },
+      {
+        "item": "Review and consider redeeming the mortgage",
+        "responsible party": "Prospect",
+        "timeline": "Within the next quarter"
+      },
+      {
+        "Responsible party": "FC",
+        "Timeline": "Not specified"
+      },
+      "FC to call Prospect's income tax calculation into question and provide a revised estimate",
+      "FC to change all expenses to joint later",
+      {
+        "Responsible party": "FC (Financial Advisor)",
+        "Timeline": "Next meeting date"
+      },
+      {
+        "item": "Pay off the remaining amount from last year ($25,500)",
+        "responsible party": "Prospect",
+        "timeline": "One-time payment"
+      },
+      {
+        "item": "Step down expenses later",
+        "responsible party": "FC (Financial Advisor)",
         "timeline": "Not specified"
       },
+      "None mentioned in this section",
       {
-        "item": "Review and adjust investment portfolio regularly",
-        "responsible party": "Prospect",
-        "timeline": "Ongoing"
+        "Action item": "Review and adjust expenses accordingly",
+        "Responsible party": "The prospect",
+        "Timeline": "Before the next meeting"
       },
-      "Action item: Review and reorganize the hospitalization and critical illness parts of the insurance plan",
-      "Action item: Explore other insurance options and consider switching plans if necessary",
-      "Action item: Pay off unpaid bonus from last year: $25,000 (purpose not specified)",
-      "Action item: Review and adjust budget regularly to ensure alignment with financial goals",
-      "Action item: Review school fees and tuition fees until this year",
-      "Action item: Review dining out expenses and consider adjustments",
+      "Client to reduce household spending by 20%",
+      "Client to reduce dining out and vacation expenses",
       {
-        "item": "Review and adjust investment portfolio to align with retirement goals",
-        "responsible party": "FC (financial advisor)",
-        "timeline": "Short-term (next meeting)"
-      },
-      {
-        "item": "Update the CPFOA withdrawal strategy to reflect reduced expenses in retirement",
-        "responsible party": "FC (Financial Advisor)",
-        "timeline": "Next meeting or as needed"
-      },
-      {
-        "item": "Review and update retirement plan to account for increased expenses",
-        "responsible party": "Prospect",
-        "timeline": "Short-term (next few months)"
-      },
-      "Specific action item: Review and adjust investment portfolio to align with retirement goals",
-      "Specific action item: Consider purchasing additional insurance policies to mitigate risk",
-      {
-        "item": "Analyze Prospect's existing insurance policies and their limitations",
-        "responsible party": "FC (financial advisor)",
+        "item": "Double-check household spending and expenses",
+        "responsible party": "FC",
         "timeline": "Immediate"
       },
       {
-        "item": "Develop a plan to fully cover Prospect's future income with life insurance",
-        "responsible party": "FC (financial advisor)",
-        "timeline": "Short-term"
+        "item": "Advisor to review existing policies and determine which ones to continue or replace",
+        "responsible party": "FC (Financial Advisor)",
+        "timeline": "Next meeting or within a reasonable timeframe"
       },
+      "Action item: Move away from previous agent",
+      "Action item: Seek new insurance with caution",
+      "FC will send WhatsApp message to the prospect for more information on pre-existing conditions",
+      "FC will unofficially check with different insurers",
+      "Send list of questions to FC for review and strategy discussion",
       {
-        "Item": "Send WhatsApp message to FC with pre-existing conditions, start date, and current status"
+        "item": "Assume the advisor will retire at age 60",
+        "responsible party": "FC (Financial Advisor)",
+        "timeline": "Immediate"
       },
+      "Client to share the meeting's insights with Justin and Adrian, their friends who are skeptical about planning",
+      "FC to follow up with Chongdian after the meeting",
       {
-        "Action item": "Update investment portfolio to align with risk profile and goals",
-        "Responsible party": "FC (Financial Advisor)",
-        "Timeline": "Next meeting or within a few weeks"
+        "item": "Schedule the meeting on May 20th from 8:30 to 10:30 PM",
+        "responsible_party": "FC",
+        "timeline": "May 20th, 8:30-10:30 PM"
       }
     ],
     "follow_up_requirements": [
-      "FC will let the Prospect know once the recording has been scrubbed for training purposes",
+      "Notify the client once the recording has been scrubbed and turned into a training material",
+      "Next meeting: FC will finalize recommendations and share them with the Prospect.",
+      "Not mentioned in this section",
+      "Follow-up requirement: Meet with banker to discuss investment options (no deadline specified)",
+      "Specific follow-up item: Review and adjust investment portfolio as needed",
+      "Deadline: Not specified",
       {
-        "item": "Review and align on cash flow or spare cash flow available for retirement and protection",
-        "deadline": "Not specified"
-      },
-      "Follow up with Prospect to discuss next steps for PIMCO fixed deposits",
-      {
-        "item": "Follow up on loan repayment and outstanding principle",
-        "deadline": "Not specified"
-      },
-      {
-        "item": "Monitor and adjust hospitalization plan as needed",
-        "deadline": "Not specified in this section"
-      },
-      "Follow-up requirement: Review and adjust the insurance plan regularly to account for changes in government policies and inflation",
-      "Follow-up requirement: Review progress on paying off unpaid bonus from last year",
-      "Follow-up requirement: Reassess budget and make adjustments as needed to stay on track",
-      "Follow-up item: Review and update financial plan based on travel planning and tithing goals (deadline not specified)",
-      {
-        "requirement": "Reassess investment drawdown strategy at next meeting",
-        "deadline": "Next meeting"
+        "Deadline": "Next meeting"
       },
       {
-        "requirement": "Review and adjust household spending in retirement",
-        "deadline": "Next meeting or as needed"
+        "item": "Re-evaluate the mortgage redemption strategy after 6 months",
+        "deadline": "6 months from the meeting date"
       },
       {
-        "item": "Reassess investment portfolio and adjust as needed",
-        "deadline": "Not specified"
-      },
-      "Specific follow-up item: Review and update financial plan every 6-12 months",
-      "Specific follow-up item: Monitor and adjust investment portfolio as needed",
-      {
-        "item": "Follow up on analysis of existing policies and their limitations",
-        "deadline": "Not specified"
-      },
-      {
-        "Requirement": "FC will unofficially check with different insurers to understand how they would handle the client's application"
-      },
-      {
-        "Follow-up item": "Review and update financial plan based on new information",
         "Deadline": "Not specified"
+      },
+      "FC to check Prospect's actual income tax payment",
+      "FC to review insurance premiums with Prospect",
+      {
+        "Deadline": "Next meeting date",
+        "Item": "Reviewing financial situation and planning for retirement"
+      },
+      {
+        "item": "Review and adjust vacation budget as needed",
+        "deadline": "Not specified"
+      },
+      {
+        "item": "Review and finalize travel plans",
+        "deadline": "Not specified"
+      },
+      "Next meeting scheduled (date not specified)",
+      "Not applicable",
+      {
+        "Follow-up item": "Reassess public transport costs and adjust as needed",
+        "Deadline": "Next meeting date"
+      },
+      {
+        "item": "Review and update Prospect EPD's financial plan",
+        "deadline": "Not specified"
+      },
+      {
+        "requirement": "Follow up on insurance policy reviews and adjustments",
+        "deadline": "Not specified"
+      },
+      "Follow-up requirement: Check on Prospect's current medical conditions",
+      "Follow-up requirement: Review Prospect's insurance options",
+      "Review doctor documentation regarding the client's eye condition",
+      {
+        "requirement": "Review and update retirement plan in four years",
+        "deadline": "Age 64"
+      },
+      "Client to provide more information on how they plan to share the meeting's insights with Justin and Adrian",
+      {
+        "item": "Confirm the meeting details with the Prospect",
+        "deadline": "Not specified"
       }
     ],
-    "next_meeting_date": "Not mentioned in this section",
-    "next_meeting_time": "Not mentioned in this section",
-    "next_meeting_format": "In-person or virtual meeting"
+    "next_meeting_date": "May 20th",
+    "next_meeting_time": "8:30-10:30 PM",
+    "next_meeting_format": "In-person meeting using Zoom"
   },
   "error": ""
 }

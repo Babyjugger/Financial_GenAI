@@ -1,6 +1,6 @@
 from typing import TypedDict, Any
 from langgraph.graph import StateGraph, START, END
-from summarizer import summarize_transcript
+from .summarizer import summarize_transcript
 import traceback
 
 class State(TypedDict):

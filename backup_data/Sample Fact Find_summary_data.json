@@ -1,0 +1,75 @@
+{
+  "file": "/Users/jonathanlimjunjie/repos/Financial_GenAI/backup_data/Sample Fact Find_summary.pdf",
+  "summary": {
+    "clients": "Prospect",
+    "advisor": "FC",
+    "meeting_date": "Not mentioned in this section",
+    "meeting_purpose": "Data scrapping and gap analysis to identify best practices and areas of improvement for training purposes",
+    "key_concerns": [
+      "Career plateau concern: possibly feeling stuck or stagnant in their career",
+      "Concern about funding kids' education and ensuring adequate coverage in case of disability or illness",
+      "Concern about retirement planning",
+      "Unclear what to do with fixed deposits (PIMCO) due to short-term nature",
+      "No specific reason given for preferring cash dividends over reinvestment",
+      "Concern about not being able to refinance a loan due to the outstanding principle being below $500,000",
+      "Difficulty keeping track of CDP (Central Depository) shares",
+      "Conflict of interest between banks and clients' interests",
+      "Difficulty finding insurance that covers exclusions",
+      "Concern about high insurance premiums and loan refinancing",
+      "Plan for annual living expenses: $100,000 per year"
+    ],
+    "financial_goals": [
+      "Retire at age 60 with sustainable income",
+      "Ensure adequate coverage for kids' education and disability/illness",
+      "Optimize investment drawdown strategy to avoid running out of cash savings in retirement",
+      "Ensure sustainable income: Withdrawal from CPFOA to prevent borrowing - Amount: $204,000 per year"
+    ],
+    "scenarios": [
+      {
+        "Assumptions": "Retiring at age 60 with uncertainty about job security after four years",
+        "Outcomes": "Planning for a potential change of career or retrenchment"
+      },
+      {
+        "Assumptions": "Inflation-adjusted annual insurance premium at age 80",
+        "Outcomes": "Long-term financial security"
+      }
+    ],
+    "recommendations": [
+      {
+        "Recommendation": "Create a budget and track expenses to ensure accurate financial planning",
+        "Rationale": "To achieve financial security"
+      },
+      {
+        "Recommendation": "Withdraw $204,000 per year from CPFOA to prevent borrowing and ensure sustainable retirement income",
+        "Rationale": "To eradicate shortfalls and maintain passive income in retirement"
+      }
+    ],
+    "action_items": [
+      {
+        "Action item": "Review and adjust annual insurance premium at age 80",
+        "Responsible party": "Client",
+        "Timeline": "Long-term commitment"
+      },
+      {
+        "Action item": "Explore other insurance options to reduce costs",
+        "Responsible party": "Client",
+        "Timeline": "Not specified"
+      }
+    ],
+    "follow_up_requirements": [
+      {
+        "Follow-up requirement": "Review and adjust investment options and consider dividend reinvestment",
+        "Deadline": "Not mentioned in transcript"
+      },
+      {
+        "Follow-up requirement": "Review and replace existing policies to ensure adequate coverage",
+        "Deadline": "Not mentioned in transcript"
+      }
+    ],
+    "discussion_points": [
+      "Comprehensive summary of discussion point 1: Career plateau concern and funding kids' education",
+      "Comprehensive summary of discussion point 2: Retirement planning, insurance premiums, and loan refinancing concerns"
+    ]
+  },
+  "error": ""
+}

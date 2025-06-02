@@ -9,13 +9,12 @@ import time
 import hashlib
 import traceback
 import concurrent.futures
-from typing import Dict, List, Any, Optional
 from functools import lru_cache
-
+from typing import Dict, List, Any, Optional
 from langchain_ollama.llms import OllamaLLM
-from helper import chunk_text, merge_chunk_results
 
-from prompts import FinancialPrompts
+from .prompts import FinancialPrompts
+from .helper import chunk_text, merge_chunk_results
 
 class TranscriptProcessor:
     """Class for processing financial transcripts."""
@@ -165,7 +164,7 @@ class TranscriptProcessor:
 
         try:
             # Always chunk for consistency, but use different sizes based on length
-            max_tokens = 3000
+            max_tokens = 4000
             chunks = chunk_text(transcript, max_tokens=max_tokens)
 
             # Generate hash for each chunk for caching

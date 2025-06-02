@@ -1,0 +1,90 @@
+{
+  "file": "/Users/jonathanlimjunjie/repos/Financial_GenAI/data/Sample Fact Find_summary_summary.pdf",
+  "summary": {
+    "clients": "John and Jane Doe",
+    "advisor": "Senior Financial Advisor",
+    "meeting_date": "February 10, 2024",
+    "meeting_purpose": "Review and update financial plan for retirement goals",
+    "key_concerns": [
+      "Increase annual insurance premium to ensure adequate coverage and mitigate risk for long-term financial security.",
+      "Risk mitigation is a top concern for the couple's retirement goals, as they want to ensure long-term financial security."
+    ],
+    "assets": [
+      {
+        "Asset Type": "Retirement Accounts",
+        "Amount": "$500,000",
+        "Frequency/Terms": "Annual contributions"
+      }
+    ],
+    "liabilities": [
+      {
+        "Liability Type": "Mortgage",
+        "Amount": "$200,000",
+        "Frequency/Terms": "Monthly payments over 15 years"
+      }
+    ],
+    "income": [
+      {
+        "Income Source": "Pensions and Social Security",
+        "Amount": "$80,000 per year",
+        "Frequency/Terms": "Annual"
+      },
+      {
+        "Income Source": "Part-time work",
+        "Amount": "$20,000 per year",
+        "Frequency/Terms": "Annual"
+      }
+    ],
+    "expenses": [
+      {
+        "Expense Type": "Living expenses",
+        "Amount": "$100,000 per year",
+        "Frequency/Terms": "Annual"
+      },
+      {
+        "Expense Type": "Taxes and insurance",
+        "Amount": "$30,000 per year",
+        "Frequency/Terms": "Annual"
+      }
+    ],
+    "discussion_points": [
+      "Additional details from transcript section",
+      "Recommendation: Increase annual insurance premium to ensure adequate coverage, Rationale: To mitigate risk and ensure long-term financial security for the couple's retirement goals"
+    ],
+    "risk_profile": {
+      "Risk Tolerance": "Conservative",
+      "Investment Strategy": "Diversified portfolio with a focus on fixed income"
+    },
+    "financial_goals": [
+      "Review and update financial plan annually to ensure long-term financial security for the couple's retirement goals (timeline: Ongoing, with a review scheduled every six months)",
+      "Retirement goal: Ensure adequate insurance coverage by increasing annual premium, timeframe: Not specified in transcript, metrics: None",
+      "Long-term financial security for retirement, timeframe: Not specified in transcript, metrics: None"
+    ],
+    "scenarios": [
+      {
+        "Scenario": "Market volatility",
+        "Impact": "Potential impact on investment portfolio and insurance coverage"
+      }
+    ],
+    "recommendations": [
+      "Increase annual insurance premium to ensure adequate coverage, Rationale: To mitigate risk and ensure long-term financial security for the couple's retirement goals"
+    ],
+    "action_items": [
+      {
+        "item": "Review and update financial plan annually",
+        "responsible_party": "John and Jane Doe (the clients)",
+        "timeline": "Ongoing, with a review scheduled every six months"
+      }
+    ],
+    "follow_up_requirements": [
+      {
+        "item": "Schedule follow-up meeting to review progress on financial goals",
+        "deadline": "Six months from current date (February 10, 2024)"
+      }
+    ],
+    "next_meeting_date": "February 10, 2024",
+    "next_meeting_time": "2:00 PM EST",
+    "next_meeting_format": "In-person meeting at the financial advisor's office"
+  },
+  "error": ""
+}

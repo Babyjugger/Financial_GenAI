@@ -2,13 +2,13 @@ import re
 import json
 import traceback
 
-from helper import template, chunk_text, merge_chunk_results, format_structured_data, categorize_concerns, should_categorize
+from .helper import template, chunk_text, merge_chunk_results, format_structured_data, categorize_concerns, should_categorize
 
 from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
 from langchain_ollama.llms import OllamaLLM
 
 # Try different models or parameters
-llm = OllamaLLM(model="llama3", num_predict=4096, temperature=0.2, num_ctx=4096)
+llm = OllamaLLM(model="llama3", num_predict=4096, temperature=0.1, num_ctx=4096)
 
 json_prompt = PromptTemplate.from_template("""
 You are a financial transcript analyst for a wealth management firm. Your task is to extract comprehensive and CONTEXTUAL information from financial meeting transcripts and format it as JSON.

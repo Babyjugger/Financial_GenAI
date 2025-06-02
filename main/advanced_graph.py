@@ -3,7 +3,7 @@ import nest_asyncio
 from typing import TypedDict, Dict, List, Any
 
 from langgraph.graph import StateGraph, START, END
-from processor import TranscriptProcessor
+from .processor import TranscriptProcessor
 
 # Apply nest_asyncio to allow nested event loops
 nest_asyncio.apply()

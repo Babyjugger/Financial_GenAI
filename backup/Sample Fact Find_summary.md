@@ -1,0 +1,376 @@
+
+# Financial Meeting Summary
+
+## Meeting Information
+- **Client(s)**: Prospect
+- **Advisor**: FC
+- **Meeting Date**: Not mentioned in this section
+- **Meeting Purpose**: Data scrapping and gap analysis for training purposes
+
+## 1. Key Concerns & Objectives
+- Concern about not all details being in the right account or place
+- Career plateau concern: Prospect's career may not be progressing as expected, potentially impacting their financial situation.
+- Disability and illness concern: Prospect wants to ensure they are adequately covered in case of a disability or illness, so they don't become a burden to their family.
+- Not mentioned in this section
+- Concern about fixed deposits due in different tranches, with the longest being six months.
+- Uncertainty about what to do with the fixed deposits
+- Single issuer risk and the importance of diversification
+- Concern about CDP not always reflecting actual portfolio value
+- Concern about loan repayment and interest rate
+- Concern about dividend yield from Singapore shares, expecting around 2% to 2.5%
+- Concern about growth rate for long-term investments
+- Reducing Risa exposure due to vested investments
+- Uncertainty about what to do with vested investments
+- Understanding the impact of loan redemption on interest savings
+- Conflicting interests between banks and clients
+- Exclusion of Graves disease from insurance coverage
+- Difficulty finding an insurer that can cover Prospect 2's insurances
+- High expense for meat due to kids growing up
+- Income tax calculation discrepancy
+- Reducing debt: $1,000 credit line needed to reduce individual debt
+- Planning for retirement income: annual expenses of $21,000 until age 65
+- Unpaid remaining amount from last year: $25,500 (purpose not specified)
+- Vacation expenses for the family
+- Concern about inflation and its impact on their financial plans
+- School fees and tuition for Kai until university
+- Monthly dining out expenses: $1,000
+- Concern about reducing expenses by half after retirement, specifically mentioning two specific expenses that will decrease.
+- Concern about not expecting children to stay with them forever
+- Disability scenario: permanent income stop, long-term care expenses of $4,000 per month
+- Sanity and maintaining a realistic lifestyle
+- Ensuring adequate vacation time
+- Insufficient life insurance coverage, with the current policy barely covering half a year of income
+- Need to review existing policies and determine which ones to continue or replace
+- Metal-bound prolapse exclusion for back condition
+- Mitral valve prolapse
+- Blood clot in the eye, which occurred about 10 years ago (2009) and was treated with chiropractic manipulation. The clot has improved over time but there is no ongoing treatment.
+- Retro valve collapse, which was discovered during scans to figure out why there was a blood clot in the eye.
+- Client's concern about a black spot in their eye that has become a gray/fuzzy spot, and the uncertainty of its impact on their vision
+- Reducing expenses in retirement to achieve a sustainable lifestyle
+- Career disruption due to redundancy, with potential impact on income
+- Retirement planning and ensuring sufficient funds for lifestyle changes
+- The importance of contingency planning and considering different scenarios in personal financial planning
+- The need to think about all the possible scenarios that can go wrong
+- None mentioned
+- The client is concerned about the short-term nature of their fixed deposits, with the longest one being six months. They haven't figured out what to do with it yet.
+- The client prefers to take dividends in cash rather than reinvesting them, but didn't think about the implications.
+- The client is concerned about the performance of their Singapore stocks, specifically Singtel and OCBC, with a desire to achieve a reasonable return (2% to 2.5%) for dividend purposes.
+- The client finds it challenging to keep track of their CDP (Central Depository) account due to the lack of transparency from the provider.
+- The client prioritizes between spending money on dining out and giving to charity, with a preference for splitting the difference (half).
+- The client expresses concern about maintaining a balance between work and personal life, acknowledging the importance of taking breaks (vacation) while also recognizing the need to prioritize sanity.
+- The client has a pre-existing condition (blood clot in the eye) that affects their vision and may impact their ability to secure insurance. The client wants to know how different insurers would manage such an application.
+- The client has retro valve collapse, which was discovered during scans for the blood clot in the eye. There is no ongoing treatment for this condition.
+- Concern about retrenchment and potential impact on income: 'At 52, how much would your gross income bonus change? But I would say 50%.' This suggests uncertainty and concern about the financial implications of a potential career change.
+- Concern about expenses increasing with retirement: 'Once Kai goes to uni and... basically drawing down all the way.' This implies worry about being able to sustain their lifestyle in retirement.
+
+## 2. Client Risk Profile
+Not mentioned in this section
+
+## 3. Financial Goals
+- Not mentioned in this section
+- Retirement goal: Simon (65) wants to retire before that age. FC will test this scenario.
+- Funding kids' education goal: Prospect wants to be ready to fund their children's education, including overseas university as needed.
+- Goal to optimize investments and consider dividend reinvestment or payout
+- Goal to review and adjust investment strategy
+- Investment returns: 5% or higher (10-year bond with annual coupons)
+- Goal to optimize investment portfolio with assumption of 6% annual return
+- Goal to manage loan liability with current repayment schedule and interest rate
+- Goal: Grow investments over time, Timeframe: Long-term, Metrics: Assuming a growth rate of 2.5% to 3%
+- Diversifying investment portfolio to minimize estate duty in the US
+- Finding a suitable solution for vested investments
+- Description: Redeeming a mortgage with an interest rate of 4%, Timeframe: 6 years, Metrics: Interest savings: $6,003
+- Maintaining a target amount for financial planning
+- Ensuring adequate insurance coverage for Prospect 2
+- Retire comfortably by age 65 with an annual income of $34,327 minus expenses
+- Save for future goals and expenses, including annual vacations and kids' expenses
+- Goal: Save for future vacations, Timeframe: Ongoing, Metrics: Split vacation budget into two tiers: $20,000 for the couple and $40,000 for the kids
+- Goal: Retire by age 65, Timeframe: By age 65, Metrics: Not specified
+- Save approximately $155,000 per year (average) inclusive of bonuses
+- Plan for education expenses beyond this year
+- Goal: Stop working at 60, Timeframe: By age 65, Metrics: Decrease certain expenses by half
+- Goal: Sustainable lifestyle, Timeframe: Ongoing, Metrics: Maintaining sanity and enjoying vacations
+- Goal: Retirement planning, Timeframe: Next 15 years until age 65, Metrics: Future income: $4.3 million (assuming no salary increases)
+- Goal: Retirement savings, Timeframe: Years to retirement, Metrics: 150k or so of savings per year
+- Goal: Retire at age 60, Timeframe: In four years, Metrics: Custom lifestyle changes
+- None mentioned
+- The client aims to grow their investment in Singapore stocks, specifically Singtel and OCBC, with a long-term growth rate assumption of 2.5% to 3%.
+- The client has a lump sum investment in these stocks, which they have not actively managed or added to since the initial investment.
+- Continue funding children's vacations; timeframe and metrics not specified.
+- Maintain a sustainable lifestyle; timeframe and metrics not mentioned.
+- Build a realistic and representative disability scenario; timeframe not specified.
+- Goal to reduce income by 35%: 'So it will change. Yeah, 35%.' This goal is specific to a potential career change and includes a timeframe (not explicitly stated) and a metric (reduced income).
+- Goal to plan for retirement expenses: 'We need to plan for that actually.' This goal is general but implies a desire to ensure financial sustainability in retirement.
+
+## 4. Current Financial Status
+### 4.1. Assets
+- Not mentioned in this section
+- Type: Cash, Amount: $250-$350, Purpose: Savings and protection
+- Type: Investments, Amount: 300-400 in Hong Kong (HSBC), Purpose: Investments and fixed deposits
+- Type: Bond, Amount: $200 US (~$26,260 SGD), Purpose: Pimco Trust investment
+- Type: Cash Deposits, Amount: $550, Purpose: Additional cash deposits
+- Type: Fixed deposits, Amount: $400 (in his name), Purpose: Investment
+- Type: JP Morgan US dollar bond, Amount: Not specified, Purpose: Investment for returns
+- Type: Equities, Amount: 400 (Meta vested looking), Purpose: Investment
+- Type: Other shares, Amount: 50,000 Sing dollars worth of liquid shares, Purpose: Investment
+- Amount: 50,000, Purpose: Investment
+- Amount: 100,000, Purpose: Investment
+- Type: USD deposit, Amount: $170,000 (SGD), Purpose: Holding vested investments
+- Type: Sync, Amount: Not specified, Purpose: Investment portfolio diversification
+- Amount: $143,000, Purpose: Paying off a mortgage with an interest rate of 4%
+- Type: Insurance premiums, Amount: Not specified, Purpose: To cover insurances, including premiums
+- Type: Household spending, Amount: $100,000 per year, Purpose: Annual living expenses
+- Type: Individual debt, Amount: $21,000, Purpose: Reducing individual debt
+- Type: Other assets (not specified), Amount: $27,000, Purpose: Unknown, mentioned as 'latest' asset
+- Amount: Not quantified, Purpose: Inspiration for future travels
+- Cash: combined income from Kieran and others ($486 + $13 = $499)
+- Amount: $600 per month, Purpose: Insuring long-term care needs
+- Amount: Not mentioned in this section, Purpose: Vehicle ownership
+- Amount: $290,000 per year, Purpose: Current income
+- Amount: Not specified, Purpose: Existing coverage
+- Amount: 150k or so, Purpose: Retirement savings
+- Amount: $150,000 per year, Purpose: Emergency fund and retirement savings
+### 4.2. Liabilities
+- Not mentioned in this section
+- Type: Loan, Amount: Outstanding principle (amount not specified), Terms: Repayment schedule: $2550 per month; Interest rate: 4%
+- Type: Estate duty, Amount: Above $60,000 (18-40% rate), Terms: Applicable to US investments only
+- Amount: $143,000, Terms: 72 months at 4% interest
+- Type: Insurance exclusions, Amount: Not specified, Terms: Exclusion of Graves disease from insurance coverage
+- Type: Loan repayment, Amount: Not mentioned in this section, Terms: Already repaid
+- Type: Insurance premiums, Amount: Not mentioned in this section, Terms: Assigned to each person, not doubled up
+- Type: Credit line, Amount: $1,000, Terms: To reduce individual debt
+- Amount: $2,000 per month, Terms: Monthly mortgage payment
+- School fees and tuition for Kai until university (amount not specified, terms not specified)
+- Amount: $64,000, Terms: Not specified
+- Amount: $400 per month, Terms: Not specified
+- Amount: Not specified, Terms: Current coverage, no cash value
+- Amount: Not specified, Terms: Assuming four more years of working for the advisor
+### 4.3. Income
+- Not mentioned in this section
+- Monthly income: Not specified (purpose not specified)
+- Source: Prospect's account, Amount: Direct from my account (amount not specified), Frequency: Not specified
+- Source: CPF (Prospect 2), Amount: $950 per month, Frequency: Monthly
+- Source: Not specified, Amount: Not mentioned in this section, Frequency: Not applicable
+- Source: Monthly income, Amount: $20,000 per month, Frequency: Monthly
+- Source: Annual bonus, Amount: Target bonus (average includes 13 months), Frequency: Annually
+- Source: Not mentioned in this section, Amount: Not specified, Frequency: Not applicable
+- Source: Prospect's income, Amount: $100,000 per year, Frequency: Annual
+- Source: Prospect 2's income, Amount: Not mentioned in this section, Frequency: Not specified
+- Source: Annual income, Amount: $34,327, Frequency: Annually
+- Source: Bonus (not specified), Amount: $25,000 per year, Frequency: Annually
+- Source: Prospect's income, Amount: Not specified, Frequency: Monthly
+- Combined cash income: $486 + $13 = $499
+- Amount Dividends: $13 per month (purpose not specified in transcript)
+- Source: Retirement income, Amount: $500 per month (current), Frequency: Monthly
+- Annual income: $100,000 per year (not specified what it's for)
+- Source: Prospect EPD's income, Amount: Not mentioned in this section, Frequency: Ongoing
+- Source: Annual income, Amount: $290,000 per year, Frequency: Annually
+- Off-the-counter hypocol medication (cost not specified) for manageable cholesterol levels
+- Annual cardiologist visit: yearly expense (amount not specified)
+- Source: Client's income, Amount: Not specified, Frequency: Annual
+### 4.4. Expenses
+- Not mentioned in this section
+- Annual living expenses: Not specified (purpose not specified)
+- Free food expenses: FC's friend has gained 10 kilos due to free food at work, but this is not a financial goal or concern for the Prospect.
+- Type: Loan repayment, Amount: $2550 per month, Frequency: Monthly
+- Expense mentioned: $1006 (purpose not specified)
+- Type: Estate duty, Amount: Above $60,000 (18-40% rate), Purpose: Applicable to US investments only
+- Amount: $1,004 per month, Frequency: Monthly
+- Type: Premiums and medisave portion, Amount: $3,007 per year, Purpose: To pay for insurance premiums and medisave portion
+- Type: Groceries and marketing, Amount: $100,000 per year (purpose not specified), Frequency: Annual
+- Type: Utility bills, Amount: Not mentioned in this section, Frequency: Monthly
+- Type: Car-related expenses, Amount: Not mentioned in this section, Frequency: Varies
+- Type: Annual expenses, Amount: $21,000, Frequency: Annually, Purpose: Living expenses until age 65
+- Type: Kids' expenses (not specified), Amount: Unknown, Frequency: Unknown, Purpose: Unknown
+- Amount: $60,000 (split into two tiers: $20,000 for the couple and $40,000 for the kids), Frequency: Annual
+- Amount: $25,500 (purpose not specified), Frequency: One-time payment
+- Amount: $14,000 up to $1999, Purpose: Travel planning
+- Amount: $10,000 per year, Purpose: Entertainment and dining out
+- Monthly dining out expenses: $1,000
+- School fees and tuition for Kai until university (amount not specified, frequency not specified)
+- Type: Public transport, Amount: Double the current amount ($500 per month), Frequency: Monthly, Purpose: Commuting and transportation needs after retirement
+- Type: Parking and Petrolex servicing, Amount: Not specified (will have to go up), Frequency: Not specified, Purpose: Transportation-related expenses
+- Household spending: $4,000 per month (long-term care expenses)
+- Dining out: 50% reduction
+- Vacation: 50% reduction
+- Amount: 20%, Purpose: Daily living expenses
+- Amount: Half, Purpose: Food and charitable giving
+- Amount: Half or three-quarters, Purpose: Travel and leisure
+- Amount: Not specified, Frequency: Not specified
+- Slip disk condition: Not specified (purpose not mentioned)
+- Annual living expenses: Not specified (purpose not mentioned)
+- Annual living expenses: Not specified
+- Yearly cardiologist visit: $0 per year (expense for maintaining heart health)
+- Amount: 150k or so, Purpose: Retirement expenses
+- Amount: Not specified, Frequency: Monthly
+- Amount: Not specified, Frequency: Quarterly
+- Monthly living expenses: Not specified (amount not mentioned)
+- Investment expenses: Not specified (amount not mentioned)
+
+## 5. Key Discussion Points
+- Review of appointments, best practices, and areas for improvement
+- Data scrubbing and testing different scenarios
+- Identifying blind spots, gaps, and opportunities
+- Gap analysis for retirement and protection, aligning cash flow for both purposes, and reviewing feedback on the session
+- Additional details from transcript section
+- Discussion about fixed deposits and their due dates
+- Discussion about PIMCO fund and dividend reinvestment or payout
+- Discussion on the specific bond investment and its characteristics
+- Comparison of single issuer instruments to diversified investments
+- Discussion about optimizing investment portfolio and managing loan liability
+- Discussion about the importance of considering risk tolerance in financial planning
+- Discussion about dividend yield from Singapore shares
+- Discussion about growth rate for long-term investments
+- The importance of diversifying investment portfolio to minimize estate duty in the US
+- The need to find a suitable solution for vested investments
+- The importance of considering interest savings when redeeming a mortgage
+- The potential conflict of interest between banks and clients
+- Discussion on target amount for financial planning
+- Explanation of insurance exclusions and coverage
+- Reviewing household expenses and discussing financial planning
+- Income tax calculation discrepancy
+- Reviewing financial situation and planning for retirement
+- Discussing individual debt reduction strategies
+- Review of financial situation and planning for vacations
+- Discussion on splitting vacation expenses into two tiers: one for the couple and one for the kids
+- Discussion about mom's travel experiences and their impact on financial planning
+- Discussion about tithing and charitable giving
+- Planning for education expenses beyond this year
+- Reviewing income and expenses to determine savings potential
+- Discussion about reducing certain expenses by half after retirement
+- Discussion about the prospect's expectations for their children's involvement in their lives
+- Discussion on reducing household spending by 20%
+- Discussion on reducing dining out and vacation expenses
+- The importance of maintaining a realistic lifestyle
+- The need for adequate vacation time
+- Review of insurance coverage and planning for retirement
+- Comparison of current coverage to future income needs
+- Discussion about medical conditions and exclusions
+- Discussion about previous agent's performance
+- Discussion around the prospect's pre-existing conditions and their potential impact on insurance applications
+- Review of the prospect's medical history, including the blood clot in the eye and retro valve collapse
+- Discussion about the client's eye condition and its impact on their vision
+- Balancing needs and wants in retirement, and finding a realistic approach to expense reduction
+- Building scenarios for career disruption and retirement planning
+- Assuming the advisor will retire at age 60
+- The importance of planning and considering different scenarios in personal financial planning
+- Sharing insights on insurance, loss of income, and contingency planning
+- Meeting scheduling and trip planning for the Prospect's 50th celebration
+- Using Zoom for meetings
+
+## 6. Scenarios Modeled
+- Not mentioned in this section
+- Retirement scenario: FC will test the possibility of Simon retiring before age 65.
+- Career plateau scenario: FC will explore ways to overcome career plateau concerns.
+- Scenario: Reinvesting dividends from the PIMCO fund
+- Scenario: Paying out dividends in cash from the PIMCO fund
+- Assumptions: 6% annual return on investment, Outcomes: Optimized investment portfolio
+- Scenario: Reinvested dividend income, Assumptions: Assuming a growth rate of 2.5% to 3%, Outcomes: Potential for long-term growth
+- Assumptions: Vested investments are held in USD deposit, Outcomes: Minimize estate duty by diversifying investment portfolio
+- Description: Redeeming the mortgage with an interest rate of 4%, Assumptions: Interest rate: 4%, loan term: 72 months, Outcomes: Interest savings: $6,003
+- Assumptions: Not specified, Outcomes: Not applicable
+- Assumptions: Not mentioned in this section, Outcomes: Not specified
+- Assumptions: Reducing individual debt by $1,000, Outcomes: Increased disposable income for retirement savings
+- Scenario: Planning for future vacations with a family of four, Assumptions: Assumes that the couple will continue to vacation with their kids until they are 18 and then stop, Outcomes: Aims to save $60,000 per year for vacations
+- Scenario: Scenario for retirement at age 65 with inflation considerations, Assumptions: Not specified, Outcomes: Not specified
+- Not applicable
+- Scenario: Retirement scenario with reduced expenses and increased public transport costs, Assumptions: Age 65, no longer driving or using cabs, Outcomes: Increased public transport costs, decreased other expenses
+- Disability scenario: permanent income stop, long-term care expenses of $4,000 per month
+- Scenario: Prospect EPD's financial scenario with reduced expenses and continued income, Assumptions: Reduced expenses by 15%, Outcomes: Maintaining a sustainable lifestyle
+- Scenario: Retirement scenario: assuming no salary increases and reviewing existing policies, Assumptions: Future income: $4.3 million, Outcomes: Insufficient current coverage
+- Scenario of having a minor stroke in the eye
+- Scenario of getting insurance with exclusion for minor stroke
+- Scenario: Reducing expenses in retirement, Assumptions: Cutting non-discretionary expenses, Outcomes: Achieving a sustainable lifestyle
+- Scenario: Career disruption scenario: assuming four more years of working, Assumptions: Advisor's income will stop at age 60, Outcomes: Custom lifestyle changes
+- Scenario: Loss of income due to unexpected events (e.g., job loss)
+- Scenario: Unexpected expenses or financial emergencies
+- None mentioned
+
+## 7. Recommendations
+- Not mentioned in this section
+- Recommendation: Review and adjust investment strategy to optimize returns
+- Recommendation: Consider dividend reinvestment or payout from the PIMCO fund
+- Recommendation to continue monitoring and adjusting the investment portfolio as needed
+- Recommendation to consider refinancing the loan when possible
+- Recommendation: Consider a conservative investment strategy with a focus on dividends and stability, Rationale: Based on the client's risk tolerance and financial goals
+- Rationale: Diversify investment portfolio to minimize estate duty and maximize returns, Action Item: Explore alternative investment options for vested investments
+- Description: Consider redeeming the mortgage to save on interest, Rationale: The potential interest savings outweigh the costs of keeping the loan
+- Rationale: To ensure adequate insurance coverage for Prospect 2's insurances, Recommendation: Continue with current insurance plan
+- Create a credit line to reduce individual debt
+- Prioritize debt reduction and retirement savings
+- Recommendation: Split vacation expenses into two tiers: one for the couple and one for the kids, Rationale: To make budgeting more manageable and ensure that both the couple and the kids have a fun and memorable experience
+- Recommendation: Plan for travel expenses and consider inflation, Rationale: Based on discussion about mom's travel experiences
+- Continue to review and adjust financial plan as needed
+- Consider exploring additional income sources or reducing expenses to increase savings potential
+- Recommendation: Double the current public transport expense to account for increased usage after retirement, Rationale: To ensure adequate transportation options and flexibility
+- Recommendation: Replicate the long-term care insurance plan for Prospect EPD's spouse, Rationale: To ensure joint coverage and stability
+- Recommendation: Review and adjust existing life insurance policies to ensure adequate coverage, Rationale: To ensure that the clients are fully covered in case of unexpected events
+- Recommendation to move away from previous agent
+- Recommendation to be cautious when seeking new insurance
+- FC wants to unofficially check with different insurers to see how they would manage the prospect's application, given his pre-existing conditions.
+- Recommendation: Invest lump sums and cash in hand for retirement, Rationale: To grow savings and achieve long-term goals
+- Recommendation: Build in a scenario for career disruption and retirement planning, Rationale: To ensure sufficient funds for lifestyle changes
+- None mentioned
+
+## 8. Action Items & Next Steps
+- Notify the client once the recording has been scrubbed and turned into a training material
+- FC will do homework after this meeting and come back with subsequent recommendations
+- FC will test different scenarios and identify blind spots, gaps, and opportunities
+- Not mentioned in this section
+- Action item: Follow up with banker to discuss investment options
+- Action item: Review and adjust investment strategy
+- Responsible Party: FC (financial advisor), Timeline: Not specified
+- Responsible Party: Prospect, Timeline: Short-term (next meeting)
+- Item: Review and consider redeeming the mortgage, Responsible Party: Prospect, Timeline: Within the next quarter
+- Responsible Party: FC, Timeline: Not specified
+- FC to call Prospect's income tax calculation into question and provide a revised estimate
+- FC to change all expenses to joint later
+- Responsible Party: FC (Financial Advisor), Timeline: Next meeting date
+- Item: Pay off the remaining amount from last year ($25,500), Responsible Party: Prospect, Timeline: One-time payment
+- Item: Step down expenses later, Responsible Party: FC (Financial Advisor), Timeline: Not specified
+- None mentioned in this section
+- Action Item: Review and adjust expenses accordingly, Responsible Party: The prospect, Timeline: Before the next meeting
+- Client to reduce household spending by 20%
+- Client to reduce dining out and vacation expenses
+- Item: Double-check household spending and expenses, Responsible Party: FC, Timeline: Immediate
+- Item: Advisor to review existing policies and determine which ones to continue or replace, Responsible Party: FC (Financial Advisor), Timeline: Next meeting or within a reasonable timeframe
+- Action item: Move away from previous agent
+- Action item: Seek new insurance with caution
+- FC will send WhatsApp message to the prospect for more information on pre-existing conditions
+- FC will unofficially check with different insurers
+- Send list of questions to FC for review and strategy discussion
+- Item: Assume the advisor will retire at age 60, Responsible Party: FC (Financial Advisor), Timeline: Immediate
+- Client to share the meeting's insights with Justin and Adrian, their friends who are skeptical about planning
+- FC to follow up with Chongdian after the meeting
+- Item: Schedule the meeting on May 20th from 8:30 to 10:30 PM, Responsible Party: FC, Timeline: May 20th, 8:30-10:30 PM
+
+## 9. Follow-up Requirements
+- Notify the client once the recording has been scrubbed and turned into a training material
+- Next meeting: FC will finalize recommendations and share them with the Prospect.
+- Not mentioned in this section
+- Follow-up requirement: Meet with banker to discuss investment options (no deadline specified)
+- Specific follow-up item: Review and adjust investment portfolio as needed
+- Deadline: Not specified
+- Deadline: Next meeting
+- Item: Re-evaluate the mortgage redemption strategy after 6 months, Deadline: 6 months from the meeting date
+- Deadline: Not specified
+- FC to check Prospect's actual income tax payment
+- FC to review insurance premiums with Prospect
+- Deadline: Next meeting date, Item: Reviewing financial situation and planning for retirement
+- Item: Review and adjust vacation budget as needed, Deadline: Not specified
+- Item: Review and finalize travel plans, Deadline: Not specified
+- Next meeting scheduled (date not specified)
+- Not applicable
+- Follow-Up Item: Reassess public transport costs and adjust as needed, Deadline: Next meeting date
+- Item: Review and update Prospect EPD's financial plan, Deadline: Not specified
+- Requirement: Follow up on insurance policy reviews and adjustments, Deadline: Not specified
+- Follow-up requirement: Check on Prospect's current medical conditions
+- Follow-up requirement: Review Prospect's insurance options
+- Review doctor documentation regarding the client's eye condition
+- Requirement: Review and update retirement plan in four years, Deadline: Age 64
+- Client to provide more information on how they plan to share the meeting's insights with Justin and Adrian
+- Item: Confirm the meeting details with the Prospect, Deadline: Not specified
+
+## 10. Next Meeting
+- **Date**: May 20th
+- **Time**: 8:30-10:30 PM
+- **Format**: In-person meeting using Zoom
